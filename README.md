@@ -1,6 +1,6 @@
 # Hi, I'm Jinal Barot! 👋
 
-### 💻 Master's Student in Applied Computing | Software Developer | Data Enthusiast
+### 💻 Master's Student in Applied Computing | Data Enthusiast
 
 Currently pursuing a Master’s in Applied Computing at the University of Windsor, I’m passionate about leveraging my technical expertise to build impactful software solutions. With a strong foundation in computer science, I specialize in backend development, data analysis, and AI-driven projects. I am currently expanding my skills in data analysis and visualization using Power BI and Excel.
 
