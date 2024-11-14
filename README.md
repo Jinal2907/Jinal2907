@@ -1,24 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jinal Barot</h1>
-<h3 align="center">Master's Student in Computer Science | Data Enthusiast</h3>
+# Hi, I'm Jinal Barot! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinal2907&label=Profile%20views&color=0e75b6&style=flat" alt="jinal2907" /> </p>
+### 💻 Master's Student in Applied Computing | Software Developer | Data Enthusiast
 
-- 🔭 I’m currently working on [Interview Manager Project](https://github.com/harshkverma/interview_backend.git)
+Currently pursuing a Master’s in Applied Computing at the University of Windsor, I’m passionate about leveraging my technical expertise to build impactful software solutions. With a strong foundation in computer science, I specialize in backend development, data analysis, and AI-driven projects. I am currently expanding my skills in data analysis and visualization using Power BI and Excel.
 
-- 🌱 I am currently expanding my skills in **Data Analysis and Visualization using Power BI and Excel.**
+---
 
-- 📫 How to reach me **barotj@uwindsor.ca**
+### 📚 Education
+- **Master of Applied Computing**  
+  *University of Windsor, Ontario*  
+  Relevant coursework: Advanced Software Engineering, Advanced Computing Concepts, Advanced System Programming, Advanced Database Topics, Internet Applications/Distibuted System, Networking and Data Security, Emerging Paradigms
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jinal-barot-9918532aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jinal-barot-9918532aa/" height="30" width="40" /></a>
-</p>
+- **Bachelor of Information & Communication Technology**  
+  *L.J. Institute of Engineering & Technology, India*  
+  GPA: 8.96/10  
+  Relevant coursework: Data Structures, AI, Machine Learning, Computer Vision, Cyber Security
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinal2907&show_icons=true&locale=en&layout=compact" alt="jinal2907" /></p>
+### 🛠️ Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinal2907&show_icons=true&locale=en" alt="jinal2907" /></p>
+- **Languages**: Python (Numpy, Pandas, Matplotlib, Scipy, OpenCV, Scikit-Learn, TensorFlow), Java, JavaScript, C, HTML, CSS, PHP
+- **Databases**: MySQL, Oracle, MongoDB, MS SQL, RStudio, NoSQL
+- **Platforms & Tools**: Visual Studio, PyCharm, Eclipse, SharePoint, Power BI, Tableau, Excel, AWS, GitHub
+- **Frameworks & Technologies**: Django, Flask, Selenium
+- **Operating Systems**: Linux/Unix, Windows, macOS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinal2907&" alt="jinal2907" /></p>
+---
+
+### 🚀 Featured Projects
+
+- **[Interview Manager](https://github.com/harshkverma/interview_backend.git)**  
+  *Tech Stack*: Python, Django, React.js, Postgresql
+The Interview Manager is a centralized, web-based platform designed to streamline interview scheduling and participation across departments, replacing manual processes with an organized, scalable solution. Built with React.js, Material UI, Django, and MongoDB, it includes a centralized calendar, role-based permissions, and tagging and filtering options to enhance scheduling efficiency.
+
+- **[Global Store Sales Analysis using Power BI](https://github.com/Jinal2907/PowerBI-Sales-Data-Analysis-Dashboard)**
+  *Tech Stack*: Power BI, Excel
+This project involves a comprehensive analysis and visualization of global superstore sales data using Power BI. The objective is to gain insights into sales trends, performance metrics, and business market's behavior through an interactive dashboard.
+
+- **[Vrinda Store Sales Analysis using Excel](https://github.com/Jinal2907/Data-Analysis-and-Visualization-using-Excel)**
+  *Tech Stack*: Excel
+This project involves a comprehensive sales data analysis for Vrinda Store, covering the year 2022. The analysis includes data cleaning, processing, and visualization using Excel. The final dashboard provides insights into various aspects of the store's sales, orders, and customer demographics.
+  
+---
+
+### 🌱 Currently Learning
+I'm currently expanding my skills in:
+- **Data Analysis & Visualization**: Leveraging **Power BI** and **Excel** for advanced data visualization, analysis, and dashboard creation.
+
+---
+
+### 📊 GitHub Stats
+![Jinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinal2907&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinal2907&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinal-barot-9918532aa/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barotj@uwindsor.ca)
