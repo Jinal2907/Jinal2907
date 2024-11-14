@@ -20,11 +20,44 @@ Currently pursuing a Master’s in Applied Computing at the University of Windso
 
 ### 🛠️ Technical Skills
 
-- **Languages**: Python (Numpy, Pandas, Matplotlib, Scipy, OpenCV, Scikit-Learn, TensorFlow), Java, JavaScript, C, HTML, CSS, PHP
-- **Databases**: MySQL, Oracle, MongoDB, MS SQL, RStudio, NoSQL
-- **Platforms & Tools**: Visual Studio, PyCharm, Eclipse, SharePoint, Power BI, Tableau, Excel, AWS, GitHub
-- **Frameworks & Technologies**: Django, Flask, Selenium
-- **Operating Systems**: Linux/Unix, Windows, macOS
+#### Languages
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/> 
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
+
+#### Databases
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MS SQL" width="40" height="40"/> 
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-r-data-science-flaticons-lineal-color-flat-icons.png" alt="RStudio" width="40" height="40"/> 
+<img src="https://img.icons8.com/ios/50/000000/database.png" alt="NoSQL" width="40" height="40"/>
+
+#### Platforms & Tools
+<img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sharepoint.png" alt="SharePoint" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> 
+<img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+
+#### Frameworks & Technologies
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
+<img src="https://img.icons8.com/windows/48/000000/flask.png" alt="Flask" width="40" height="40"/> 
+<img src="https://img.icons8.com/ios-filled/50/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
+
+#### Operating Systems
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" width="40" height="40"/>
+
 
 ---
 
